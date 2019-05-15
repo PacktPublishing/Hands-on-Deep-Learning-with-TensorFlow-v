@@ -5,12 +5,14 @@ Are you short on time to start from scratch to use deep learning to solve comple
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
-<UL>
-<LI>Learn all about Cognitive Services and what they can do for you. This course handles each category: vision, speech, language, knowledge, and searches 
-<LI>Set up Cognitive Services on your own Azure account 
-<LI>Leverage the power of AI through a set of simple REST APIs 
-<LI>Use computer vision to detect objects and text in images, implement speech-to-text conversion, leverage the power of Bing to retrieve useful search results, and much more 
-<LI>Incorporate everything you've learned into a variety of applications, so you can easily translate it into your own real-life solutions </LI></UL></DIV>
+<UL>• Use the power of TensorFlow to help you in your daily deep learning tasks
+<LI>• Build a base for TensorFlow by implementing regression
+<LI>• Solve prediction deep learning problems with TensorFlow
+<LI>• Solve Image classification deep learning problems with TensorFlow
+<LI>• Tackle the potential of RNN and LSTM Neural Networks with TensorFlow to solve time series problems
+<LI>• Utilize the power of efficient data representation using autoencoders
+<LI>• Effective ways to implement generative adversarial networks in the real world
+<LI>• Get equipped to develop projects with deep learning </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
