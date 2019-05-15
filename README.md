@@ -5,14 +5,15 @@ Are you short on time to start from scratch to use deep learning to solve comple
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
-<UL>• Use the power of TensorFlow to help you in your daily deep learning tasks
-<LI>• Build a base for TensorFlow by implementing regression
-<LI>• Solve prediction deep learning problems with TensorFlow
-<LI>• Solve Image classification deep learning problems with TensorFlow
-<LI>• Tackle the potential of RNN and LSTM Neural Networks with TensorFlow to solve time series problems
-<LI>• Utilize the power of efficient data representation using autoencoders
-<LI>• Effective ways to implement generative adversarial networks in the real world
-<LI>• Get equipped to develop projects with deep learning </LI></UL></DIV>
+<UL>
+<LI>Use the power of TensorFlow to help you in your daily deep learning tasks
+<LI>Build a base for TensorFlow by implementing regression
+<LI>Solve prediction deep learning problems with TensorFlow
+<LI>Solve Image classification deep learning problems with TensorFlow
+<LI>Tackle the potential of RNN and LSTM Neural Networks with TensorFlow to solve time series problems
+<LI>Utilize the power of efficient data representation using autoencoders
+<LI>Effective ways to implement generative adversarial networks in the real world
+<LI>Get equipped to develop projects with deep learning </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
